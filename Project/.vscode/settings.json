@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "validater.h": "c",
-        "query8.h": "c",
-        "batch_mode.h": "c",
-        "menu_mode.h": "c",
-        "reservations_catalog.h": "c"
-    }
-}
